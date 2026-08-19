@@ -1,0 +1,5 @@
+PyQt6
+psutil
+pyaudio
+websockets
+google-genai
